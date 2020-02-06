@@ -8,7 +8,7 @@
 		"minecraft:taiga",
 		"minecraft:swamp",
 		"minecraft:river",
-		"minecraft:nether",
+		"minecraft:nether_wastes",
 		"minecraft:the_end",
 		"minecraft:frozen_ocean",
 		"minecraft:frozen_river",
@@ -74,6 +74,9 @@
 		"minecraft:modified_wooded_badlands_plateau",
 		"minecraft:modified_badlands_plateau",
 		"minecraft:bamboo_jungle",
-		"minecraft:bamboo_jungle_hills"
+		"minecraft:bamboo_jungle_hills",
+		"minecraft:soul_sand_valley",
+		"minecraft:crimson_forest",
+		"minecraft:warped_forest"
 	]
 }

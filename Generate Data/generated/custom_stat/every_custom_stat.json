@@ -68,6 +68,8 @@
 		"minecraft:interact_with_stonecutter",
 		"minecraft:bell_ring",
 		"minecraft:raid_trigger",
-		"minecraft:raid_win"
+		"minecraft:raid_win",
+		"minecraft:interact_with_anvil",
+		"minecraft:interact_with_grindstone"
 	]
 }

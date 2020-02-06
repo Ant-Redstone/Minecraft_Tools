@@ -27,6 +27,7 @@
 		"minecraft:firework",
 		"minecraft:fishing",
 		"minecraft:flame",
+		"minecraft:soul_fire_flame",
 		"minecraft:flash",
 		"minecraft:happy_villager",
 		"minecraft:composter",
@@ -61,6 +62,9 @@
 		"minecraft:dripping_honey",
 		"minecraft:falling_honey",
 		"minecraft:landing_honey",
-		"minecraft:falling_nectar"
+		"minecraft:falling_nectar",
+		"minecraft:ash",
+		"minecraft:crimson_spore",
+		"minecraft:warped_spore"
 	]
 }
