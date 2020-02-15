@@ -1,6 +1,7 @@
 {
 	"values": [
 		"minecraft:dummy",
+		"minecraft:nearest_items",
 		"minecraft:nearest_living_entities",
 		"minecraft:nearest_players",
 		"minecraft:interactable_doors",
@@ -9,6 +10,8 @@
 		"minecraft:villager_hostiles",
 		"minecraft:villager_babies",
 		"minecraft:secondary_pois",
-		"minecraft:golem_last_seen"
+		"minecraft:golem_last_seen",
+		"minecraft:piglin_specific_sensor",
+		"minecraft:hoglin_specific_sensor"
 	]
 }
